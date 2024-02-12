@@ -11,7 +11,7 @@ export default function PresidentCard({
 
     return (
         <div className="president-wrapper">
-            <img src={`/images/${photo}`} alt={name}/>
+            <img src={photo} alt={name}/>
             <h2>{name}</h2>
             <h3>{term}</h3>
             <p>{about}</p>
