@@ -9,7 +9,6 @@ Code written by Dr. Fitz
 
 * Next, choose a location for your project and enter the following:
 * `npm create vite@latest fitpresidents -- --template react`
-`
 * Download the src files from this repository and place them in the appropriate directory
 * Add the dataset named fitpresidents.js provided by the instructor
 * Create a CSS file and style your HTML to resemble the following:
